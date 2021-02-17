@@ -1,1 +1,1 @@
-# shopifi-react-next-app
+# shopify-react-next-app
