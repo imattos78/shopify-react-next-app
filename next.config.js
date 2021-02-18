@@ -11,3 +11,12 @@ module.exports = withCSS({
     return config;
   },
 });
+
+module.exports = {
+    module: {
+      rules: [
+        { test: /\.css$/, use: 'css-loader' }
+      ]
+    }
+  };
+  

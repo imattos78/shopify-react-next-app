@@ -30,6 +30,10 @@
     "koa-session": "^6.1.0",
     "next": "^10.0.7",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "webpack": "^5.22.0"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.2"
   }
 }
