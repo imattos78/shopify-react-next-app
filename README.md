@@ -4,3 +4,5 @@
 
 - React / NextJs
 - nerok 
+- OAuth(koa-shopify-auth)
+- isomorphic fetch
