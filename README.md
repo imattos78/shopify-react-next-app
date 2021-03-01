@@ -7,3 +7,4 @@
 - OAuth(koa-shopify-auth)
 - isomorphic fetch
 - Polaris CSS
+- Shopify App Bridge React library 
